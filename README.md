@@ -1,4 +1,11 @@
-## Hi there 👋
+## Acerca de mí 👋
+
+Me llamo Renata, un gusto. Full-Stack Developer en formación, egresada de Academia Desafío Latam.
+Soy de Chile, y actualmente manejo una tienda online orientada a la importación de productos desde Japón.
+
+No dudes en contactarme
+Gmail: ratenas95@gmail.com
+Linkedin: https://www.linkedin.com/in/renata-atenas/
 
 <!--
 **pupubeat/pupubeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,9 @@
 Me llamo Renata, un gusto. Full-Stack Developer en formación, egresada de Academia Desafío Latam.
 Soy de Chile, y actualmente manejo una tienda online orientada a la importación de productos desde Japón.
 
-No dudes en contactarme
+🌱 Sigo aprendiendo Python y Javascript.
+
+📫 No dudes en contactarme!
 Gmail: ratenas95@gmail.com
 Linkedin: https://www.linkedin.com/in/renata-atenas/
 

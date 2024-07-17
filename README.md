@@ -1,15 +1,15 @@
-## Acerca de mí 👋
+## About me 👋
 
-Me llamo Renata, un gusto. Full-Stack Developer en formación, egresada de Academia Desafío Latam.
-Soy de Chile, y actualmente manejo una tienda online orientada a la importación de productos desde Japón.
+Hi, I'm Renata, but you can call me by Pupubeat.
+I'm from Chile, nice to meet you.
 
-🌱 Sigo aprendiendo Python y Javascript.
+🌱 I'm still learning Python and Javascript.
 
- ## 📬 Contacto
+ ## 📬 Contact.
  [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratenas95@gmail.com)
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/renata-atenas/))
 
-## 🚀 Herramientas
+## 🚀 Tools.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
